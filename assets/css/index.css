@@ -32,8 +32,9 @@ body {
     color: #3b3b3b;
 }
 
-wrapper {
+.wrapper {
     background-color: #ffffff;
+    margin: 200px 116px 176px 239px;
 }
 
 .column {
